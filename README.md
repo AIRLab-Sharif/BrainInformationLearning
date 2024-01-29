@@ -1,2 +1,2 @@
 # BrainInfomrationLearning
-This project is about the investigation the relation computational and physiological notion of information in learning process.
+This project investigates the relation between computational and physiological notion of information in the sequence learning process.
